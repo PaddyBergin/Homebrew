@@ -46,10 +46,10 @@
 		<description>
 			<p><em>3rd-level Way of the Mountain's Eye feature</em></p>
 			<p>Your very strike crumbles the enemies resolve, both for their mind and their body.</p>
-			<p>Beginning at third level on a successful attack, you can spend a ki point to give the target disadvantage on either wisdom or constitution saving throws until the start of your next turn.</p>
+			<p>Beginning at 3rd level on a successful attack, you can spend a ki point to give the target disadvantage on either wisdom or constitution saving throws until the start of your next turn.</p>
 		</description>
 		<sheet>
-			<description>Beginning at third level on a successful attack, you can spend a ki point to give the target disadvantage on a saving throw of your choice until the start of your next turn.</description>
+			<description>Beginning at 3rd level on a successful attack, you can spend a ki point to give the target disadvantage on a saving throw of your choice until the start of your next turn.</description>
 		</sheet>
 	</element>
 	<element name="Cerebral Strikes" type="Archetype Feature" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_CEREBRAL_STRIKES">
