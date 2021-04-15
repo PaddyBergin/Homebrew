@@ -3,11 +3,10 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="PaddyB.index" url="https://raw.githubusercontent.com/PaddyBergin/Homebrew/master/PaddyB.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		<file name="mountain-monk.xml" url="https://raw.github.com/PaddyBergin/Homebrew/blob/master/PaddyB/archetypes/monk-mountain.xml" />
 	</files>
 </index>
