@@ -5,7 +5,7 @@
 		<description>The Way of the Mountain's Eye from Paddy's Homebrew</description>
 		<author>Paddy's Homebrew</author>
 		<update version="0.0.1">
-			<file name="monk-mountain.xml" url="https://github.com/PaddyBergin/Homebrew/blob/master/PaddyB/archetypes/monk-mountain.xml" />
+			<file name="monk-mountain.xml" url="https://github.com/PaddyBergin/Homebrew/blob/master/PaddyB/monk-mountain.xml" />
 		</update>
 	</info>
 	<element name="Way of the Mountain's Eye" type="Archetype" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_MONK_WAY_OF_THE_MOUNTAINS_EYE">
