@@ -16,7 +16,7 @@
 			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_DEBILITATING_TOUCH" />
 			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_CEREBRAL_STRIKES" />
 			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_UNSTOPPABLE_FORCE" />
-			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_AWAKENED_ASTRAL_SELF" />
+			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_INFLICT_MADNESS" />
 		</description>
 		<sheet display="false" />
 		<rules>
@@ -24,7 +24,7 @@
 			<grant type="Archetype Feature" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_DEBILITATING_TOUCH" level="3" />
 			<grant type="Archetype Feature" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_CEREBRAL_STRIKES" level="6" />
 			<grant type="Archetype Feature" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_UNSTOPPABLE_FORCE" level="11" />
-			<grant type="Archetype Feature" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_AWAKENED_ASTRAL_SELF" level="17" />
+			<grant type="Archetype Feature" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_INFLICT_MADNESS" level="17" />
 		</rules>
 	</element>
 	<element name="Exploit Weakness" type="Archetype Feature" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_EXPLOIT_WEAKNESS">
@@ -42,7 +42,7 @@
 			upon a successful attack you can remove its resistance to damage until the start of your next turn.</description>
 		</sheet>
 	</element>
-	<element name="Debilitating Touch" type="Archetype Feature" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_EXPLOIT_WEAKNESS">
+	<element name="Debilitating Touch" type="Archetype Feature" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_DEBILITATING_TOUCH">
 		<description>
 			<p><em>3rd-level Way of the Mountain's Eye feature</em></p>
 			<p>Your very strike crumbles the enemies resolve, both for their mind and their body.</p>
@@ -76,7 +76,7 @@
 			This attack deals {{wisdom:modifier}}d8 bludgeoning damage once to each creature or structure that you come within 5ft of until the end of this movement.</description>
 		</sheet>
 	</element>
-	<element name="Awakened Astral Self" type="Archetype Feature" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_AWAKENED_ASTRAL_SELF">
+	<element name="Inflict Madness" type="Archetype Feature" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_INFLICT_MADNESS">
 		<description>
 			<p><em>17th-level Way of the Mountain's Eye feature</em></p>
 			<p>The body and mind are interconnected, and your comprehension of this link allows you to strike with the intent of damaging both mind and body simultaneously.</p>
