@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="mountain-monk.xml" url="https://raw.github.com/PaddyBergin/Homebrew/master/PaddyB/archetypes/monk-mountain.xml" />
+		<file name="mountain-monk.xml" url="https://raw.github.com/PaddyBergin/Homebrew/master/PaddyB/monk-mountain.xml" />
 	</files>
 </index>
