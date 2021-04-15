@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Your Content</name>
-		<update version="1.0.1">
+		<update version="1.0.2">
 			<file name="PaddyB.index" url="https://raw.githubusercontent.com/PaddyBergin/Homebrew/master/PaddyB.index" />
 		</update>
 	</info>

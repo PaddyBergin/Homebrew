@@ -4,7 +4,7 @@
 		<name>Way of the Mountain's Eye</name>
 		<description>The Way of the Mountain's Eye from Paddy's Homebrew</description>
 		<author>Paddy's Homebrew</author>
-		<update version="0.0.2">
+		<update version="0.0.3">
 			<file name="monk-mountain.xml" url="https://github.com/PaddyBergin/Homebrew/blob/master/PaddyB/monk-mountain.xml" />
 		</update>
 	</info>
@@ -71,7 +71,7 @@
 			<p>Starting at 11th level you can spend 1 ki point and use your action to momentarily becomes an unstoppable force. You can move up to half of your movement speed dealing damage to anything you make contact with.</p>
 			<p>Any creature or structure you come within 5ft of during this movement takes a number of d8 equivalent to your dex modifier. Any creature you come into contact with must make a strength saving throw or be knocked prone.</p>
 		</description>
-		<sheet>
+		<sheet action="Action">
 			<description>you can use your action to momentarily become an unstoppable force. By spending a ki point you can travel half your normal speed dealing damage to anything you make content with. 
 			This attack deals {{wisdom:modifier}}d8 bludgeoning damage once to each creature or structure that you come within 5ft of until the end of this movement.</description>
 		</sheet>
