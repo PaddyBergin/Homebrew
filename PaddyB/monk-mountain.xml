@@ -4,7 +4,7 @@
 		<name>Way of the Mountain's Eye</name>
 		<description>The Way of the Mountain's Eye from Paddy's Homebrew</description>
 		<author>Paddy's Homebrew</author>
-		<update version="0.0.3">
+		<update version="0.0.4">
 			<file name="monk-mountain.xml" url="https://github.com/PaddyBergin/Homebrew/blob/master/PaddyB/monk-mountain.xml" />
 		</update>
 	</info>
