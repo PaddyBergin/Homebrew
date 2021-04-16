@@ -11,7 +11,8 @@
 	<element name="Way of the Mountain's Eye" type="Archetype" source="Paddy's Homebrew" id="ID_PBERGIN_HOMEBREW_ARCHETYPE_MONK_WAY_OF_THE_MOUNTAINS_EYE">
 		<supports>Monastic Tradition</supports>
 		<description>
-			<p>A monk who follows the Way of the Mountain's Eye believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.</p>
+			<p>The mountain is a sturdy landmark of the world. Intimidating and unyielding, the mountain endures all aspects of nature. The way of the mountains eye is a discipline that embodies the spirit of the mountain and harnesses the power of observation.</p> 
+			<p>Mountain Monks train themselves to identify the weaknesses of their enemies through observation of their physiological history. A broken bone that never fully healed, a scar inflicted by a terrifying opponent, a wound received during a devastating battle, these are the things that a mountain Monk sees in their opponents and knows how to target. </p>
 			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_EXPLOIT_WEAKNESS" />
 			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_DEBILITATING_TOUCH" />
 			<div element="ID_PBERGIN_HOMEBREW_ARCHETYPE_FEATURE_WAY_OF_THE_MOUNTAINS_EYE_CEREBRAL_STRIKES" />
